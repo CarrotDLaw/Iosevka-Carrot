@@ -1,135 +1,135 @@
-[buildPlans.iosevka-carrot-mono]
-family = "Iosevka Carrot Mono"
+[buildPlans.carrot-mono]
+family = "Carrot Mono"
 spacing = "normal"
 serifs = "sans"
 no-cv-ss = false
 export-glyph-names = false
 
-[buildPlans.iosevka-carrot-mono.variants.design]
+[buildPlans.carrot-mono.variants.design]
 capital-d = "more-rounded-serifless"
 capital-g = "toothless-corner-serifless-hooked"
 capital-q = "crossing"
 l = "tailed-serifed"
-q = "diagonal-tailed"
-w = "straight-flat-top"
-y = "straight-turn"
+q = "diagonal-tailed-serifless"
+w = "straight-flat-top-serifless"
+y = "straight-turn-serifless"
 zero = "dotted"
 two = "straight-neck"
 three = "flat-top"
-five = "oblique-upper-left-bar"
+five = "oblique-arched"
 eight = "crossing-asymmetric"
+ampersand = "upper-open"
 dollar = "open"
 cent = "open"
-partial-derivative = "curly-bar"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
 
-[buildPlans.iosevka-carrot-mono.variants.italic]
+[buildPlans.carrot-mono.variants.italic]
 capital-b = "more-asymmetric-serifless"
 capital-g = "toothless-rounded-serifless-hooked"
 capital-j = "descending-serifed"
 capital-k = "curly-serifless"
-capital-m = "slanted-sides-hanging"
+capital-m = "slanted-sides-hanging-serifless"
 capital-q = "open-swash"
-capital-r = "standing"
-capital-u = "tailed"
+capital-r = "curly-serifless"
+capital-u = "tailed-serifless"
+capital-z = "cursive"
 a = "double-storey-tailed"
-b = "toothless-corner"
+b = "toothless-corner-serifless"
 f = "tailed"
-g = "earless-corner"
-h = "tailed"
+g = "single-storey-earless-corner"
+h = "tailed-serifless"
 k = "diagonal-tailed-cursive-serifless"
-m = "tailed"
-n = "tailed"
-p = "earless-corner"
-q = "earless-corner-diagonal-tailed"
-v = "cursive"
-w = "cursive"
+m = "tailed-serifless"
+n = "tailed-serifless"
+q = "earless-corner-diagonal-tailed-serifless"
+v = "cursive-serifless"
+w = "cursive-serifless"
 x = "cursive"
-y = "cursive"
+y = "cursive-serifless"
 z = "cursive"
 
-[buildPlans.iosevka-carrot-mono.widths.normal]
+[buildPlans.carrot-mono.widths.normal]
 shape = 600
 menu = 5
 css = "normal"
 
-[buildPlans.iosevka-carrot-mono.slopes.upright]
+[buildPlans.carrot-mono.slopes.upright]
 angle = 0
 shape = "upright"
 menu = "upright"
 css = "normal"
 
-[buildPlans.iosevka-carrot-mono.slopes.italic]
+[buildPlans.carrot-mono.slopes.italic]
 angle = 9.4
 shape = "italic"
 menu = "italic"
 css = "italic"
 
 
-[buildPlans.iosevka-carrot-term]
-family = "Iosevka Carrot Term"
+[buildPlans.carrot-term]
+family = "Carrot Term"
 spacing = "term"
 serifs = "sans"
 no-cv-ss = false
 export-glyph-names = false
 
-[buildPlans.iosevka-carrot-term.variants.design]
+[buildPlans.carrot-term.variants.design]
 capital-d = "more-rounded-serifless"
 capital-g = "toothless-corner-serifless-hooked"
 capital-q = "crossing"
 l = "tailed-serifed"
-q = "diagonal-tailed"
-w = "straight-flat-top"
-y = "straight-turn"
+q = "diagonal-tailed-serifless"
+w = "straight-flat-top-serifless"
+y = "straight-turn-serifless"
 zero = "dotted"
 two = "straight-neck"
 three = "flat-top"
-five = "oblique-upper-left-bar"
+five = "oblique-arched"
 eight = "crossing-asymmetric"
+ampersand = "upper-open"
 dollar = "open"
 cent = "open"
-partial-derivative = "curly-bar"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
 
-[buildPlans.iosevka-carrot-term.variants.italic]
+[buildPlans.carrot-term.variants.italic]
 capital-b = "more-asymmetric-serifless"
 capital-g = "toothless-rounded-serifless-hooked"
 capital-j = "descending-serifed"
 capital-k = "curly-serifless"
-capital-m = "slanted-sides-hanging"
+capital-m = "slanted-sides-hanging-serifless"
 capital-q = "open-swash"
-capital-r = "standing"
-capital-u = "tailed"
+capital-r = "curly-serifless"
+capital-u = "tailed-serifless"
+capital-z = "cursive"
 a = "double-storey-tailed"
-b = "toothless-corner"
+b = "toothless-corner-serifless"
 f = "tailed"
-g = "earless-corner"
-h = "tailed"
+g = "single-storey-earless-corner"
+h = "tailed-serifless"
 k = "diagonal-tailed-cursive-serifless"
-m = "tailed"
-n = "tailed"
-p = "earless-corner"
-q = "earless-corner-diagonal-tailed"
-v = "cursive"
-w = "cursive"
+m = "tailed-serifless"
+n = "tailed-serifless"
+q = "earless-corner-diagonal-tailed-serifless"
+v = "cursive-serifless"
+w = "cursive-serifless"
 x = "cursive"
-y = "cursive"
+y = "cursive-serifless"
 z = "cursive"
 
-[buildPlans.iosevka-carrot-term.widths.normal]
+[buildPlans.carrot-term.widths.normal]
 shape = 600
 menu = 5
 css = "normal"
 
-[buildPlans.iosevka-carrot-term.slopes.upright]
+[buildPlans.carrot-term.slopes.upright]
 angle = 0
 shape = "upright"
 menu = "upright"
 css = "normal"
 
-[buildPlans.iosevka-carrot-term.slopes.italic]
+[buildPlans.carrot-term.slopes.italic]
 angle = 9.4
 shape = "italic"
 menu = "italic"
