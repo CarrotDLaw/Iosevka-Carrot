@@ -1,11 +1,11 @@
-[buildPlans.carrot-mono]
+[buildPlans.CarrotMono]
 family = "Carrot Mono"
 spacing = "normal"
 serifs = "sans"
-no-cv-ss = false
-export-glyph-names = false
+noCvSs = false
+exportGlyphNames = false
 
-[buildPlans.carrot-mono.variants.design]
+[buildPlans.CarrotMono.variants.design]
 capital-d = "more-rounded-serifless"
 capital-g = "toothless-corner-serifless-hooked"
 capital-i = "short-serifed"
@@ -27,7 +27,7 @@ cent = "open"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
 
-[buildPlans.carrot-mono.variants.italic]
+[buildPlans.CarrotMono.variants.italic]
 capital-a = "curly-serifless"
 capital-b = "more-asymmetric-interrupted-serifless"
 capital-g = "toothless-rounded-serifless-hooked"
@@ -60,32 +60,32 @@ x = "cursive"
 y = "cursive-serifless"
 z = "cursive"
 
-[buildPlans.carrot-mono.widths.normal]
+[buildPlans.CarrotMono.widths.normal]
 shape = 600
 menu = 5
 css = "normal"
 
-[buildPlans.carrot-mono.slopes.upright]
+[buildPlans.CarrotMono.slopes.upright]
 angle = 0
 shape = "upright"
 menu = "upright"
 css = "normal"
 
-[buildPlans.carrot-mono.slopes.italic]
+[buildPlans.CarrotMono.slopes.italic]
 angle = 9.4
 shape = "italic"
 menu = "italic"
 css = "italic"
 
 
-[buildPlans.carrot-term]
+[buildPlans.CarrotTerm]
 family = "Carrot Term"
 spacing = "term"
 serifs = "sans"
-no-cv-ss = false
-export-glyph-names = false
+noCvSs = false
+exportGlyphNames = false
 
-[buildPlans.carrot-term.variants.design]
+[buildPlans.CarrotTerm.variants.design]
 capital-d = "more-rounded-serifless"
 capital-g = "toothless-corner-serifless-hooked"
 capital-i = "short-serifed"
@@ -107,7 +107,7 @@ cent = "open"
 lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
 
-[buildPlans.carrot-term.variants.italic]
+[buildPlans.CarrotTerm.variants.italic]
 capital-a = "curly-serifless"
 capital-b = "more-asymmetric-interrupted-serifless"
 capital-g = "toothless-rounded-serifless-hooked"
@@ -140,18 +140,18 @@ x = "cursive"
 y = "cursive-serifless"
 z = "cursive"
 
-[buildPlans.carrot-term.widths.normal]
+[buildPlans.CarrotTerm.widths.normal]
 shape = 600
 menu = 5
 css = "normal"
 
-[buildPlans.carrot-term.slopes.upright]
+[buildPlans.CarrotTerm.slopes.upright]
 angle = 0
 shape = "upright"
 menu = "upright"
 css = "normal"
 
-[buildPlans.carrot-term.slopes.italic]
+[buildPlans.CarrotTerm.slopes.italic]
 angle = 9.4
 shape = "italic"
 menu = "italic"
