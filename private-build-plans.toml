@@ -6,6 +6,14 @@ noCvSs = false
 exportGlyphNames = false
 
 [buildPlans.CarrotMono.variants.design]
+two = "straight-neck-serifless"
+three = "flat-top-serifless"
+five = "oblique-arched-serifless"
+six = "straight-bar"
+seven = "bend-serifless"
+eight = "crossing-asymmetric"
+nine = "straight-bar"
+zero = "dotted"
 capital-d = "more-rounded-serifless"
 capital-g = "toothless-corner-serifless-hooked"
 capital-i = "short-serifed"
@@ -16,14 +24,6 @@ l = "tailed-serifed"
 q = "diagonal-tailed-serifless"
 w = "straight-flat-top-serifless"
 y = "straight-turn-serifless"
-zero = "dotted"
-two = "straight-neck-serifless"
-three = "flat-top-serifless"
-five = "oblique-arched-serifless"
-six = "straight-bar"
-seven = "bend-serifless"
-eight = "crossing-asymmetric"
-nine = "straight-bar"
 ampersand = "upper-open"
 at = "fourfold"
 dollar = "open"
@@ -33,7 +33,7 @@ lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
 
 [buildPlans.CarrotMono.variants.italic]
-capital-a = "curly-serifless"
+capital-a = "round-top-serifless"
 capital-b = "more-asymmetric-interrupted-serifless"
 capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "short-serifed"
@@ -45,7 +45,7 @@ capital-q = "open-swash"
 capital-r = "curly-open-serifless"
 capital-u = "tailed-serifless"
 capital-v = "curly-serifless"
-capital-w = "curly-serifless"
+capital-w = "rounded-vertical-sides-serifless"
 capital-x = "curly-serifless"
 capital-y = "curly-serifless"
 capital-z = "cursive"
@@ -66,18 +66,21 @@ x = "cursive"
 y = "cursive-serifless"
 z = "cursive"
 
-[buildPlans.CarrotMono.widths.normal]
-shape = 600
+[buildPlans.CarrotMono.ligations]
+inherits = "dlig"
+
+[buildPlans.CarrotMono.widths.Normal]
+shape = 548
 menu = 5
 css = "normal"
 
-[buildPlans.CarrotMono.slopes.upright]
+[buildPlans.CarrotMono.slopes.Upright]
 angle = 0
 shape = "upright"
 menu = "upright"
 css = "normal"
 
-[buildPlans.CarrotMono.slopes.italic]
+[buildPlans.CarrotMono.slopes.Italic]
 angle = 9.4
 shape = "italic"
 menu = "italic"
@@ -92,6 +95,14 @@ noCvSs = false
 exportGlyphNames = false
 
 [buildPlans.CarrotTerm.variants.design]
+two = "straight-neck-serifless"
+three = "flat-top-serifless"
+five = "oblique-arched-serifless"
+six = "straight-bar"
+seven = "bend-serifless"
+eight = "crossing-asymmetric"
+nine = "straight-bar"
+zero = "dotted"
 capital-d = "more-rounded-serifless"
 capital-g = "toothless-corner-serifless-hooked"
 capital-i = "short-serifed"
@@ -102,14 +113,6 @@ l = "tailed-serifed"
 q = "diagonal-tailed-serifless"
 w = "straight-flat-top-serifless"
 y = "straight-turn-serifless"
-zero = "dotted"
-two = "straight-neck-serifless"
-three = "flat-top-serifless"
-five = "oblique-arched-serifless"
-six = "straight-bar"
-seven = "bend-serifless"
-eight = "crossing-asymmetric"
-nine = "straight-bar"
 ampersand = "upper-open"
 at = "fourfold"
 dollar = "open"
@@ -119,7 +122,7 @@ lig-double-arrow-bar = "with-notch"
 lig-single-arrow-bar = "with-notch"
 
 [buildPlans.CarrotTerm.variants.italic]
-capital-a = "curly-serifless"
+capital-a = "round-top-serifless"
 capital-b = "more-asymmetric-interrupted-serifless"
 capital-g = "toothless-rounded-serifless-hooked"
 capital-i = "short-serifed"
@@ -131,7 +134,7 @@ capital-q = "open-swash"
 capital-r = "curly-open-serifless"
 capital-u = "tailed-serifless"
 capital-v = "curly-serifless"
-capital-w = "curly-serifless"
+capital-w = "rounded-vertical-sides-serifless"
 capital-x = "curly-serifless"
 capital-y = "curly-serifless"
 capital-z = "cursive"
@@ -152,18 +155,21 @@ x = "cursive"
 y = "cursive-serifless"
 z = "cursive"
 
-[buildPlans.CarrotTerm.widths.normal]
-shape = 600
+[buildPlans.CarrotTerm.ligations]
+inherits = "dlig"
+
+[buildPlans.CarrotTerm.widths.Normal]
+shape = 548
 menu = 5
 css = "normal"
 
-[buildPlans.CarrotTerm.slopes.upright]
+[buildPlans.CarrotTerm.slopes.Upright]
 angle = 0
 shape = "upright"
 menu = "upright"
 css = "normal"
 
-[buildPlans.CarrotTerm.slopes.italic]
+[buildPlans.CarrotTerm.slopes.Italic]
 angle = 9.4
 shape = "italic"
 menu = "italic"
