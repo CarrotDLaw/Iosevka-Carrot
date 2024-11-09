@@ -93,6 +93,7 @@ spacing = "term"
 serifs = "sans"
 noCvSs = false
 exportGlyphNames = false
+noLigation = true
 
 [buildPlans.CarrotTerm.variants.design]
 two = "straight-neck-serifless"
@@ -154,9 +155,6 @@ w = "cursive-serifless"
 x = "cursive"
 y = "cursive-serifless"
 z = "cursive"
-
-[buildPlans.CarrotTerm.ligations]
-inherits = "dlig"
 
 [buildPlans.CarrotTerm.widths.Normal]
 shape = 548
